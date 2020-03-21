@@ -1,1 +1,1 @@
-# headless-wordpress-with-gatsby
+# Headless Wordpress With Gatsby
