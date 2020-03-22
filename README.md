@@ -51,6 +51,6 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 ****package.json:** A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
 ## 💫 Deploy
-Deploy Your website to Netlify https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default
+Deploy Your website to Netlify https://app.netlify.com/start
 
 ******* PLEASE follow me on Github ******
