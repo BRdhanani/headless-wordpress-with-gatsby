@@ -21,7 +21,7 @@ Navigate into your site’s directory and start it up.
 
 **3. Open the source code with your favourite code editor and start editing!**
 
-Your site is now running at http://localhost:8000!
+Your site is now running at http://localhost:8000
 
 Note: You'll also see a second link: http://localhost:8000/___graphql. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the Gatsby tutorial.
 
